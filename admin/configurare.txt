@@ -1,0 +1,8 @@
+Dupa cum se vede si în structura de directoare, configurarea aplicatiei se face în fisierul config.php care se include în toate scripturile php. Acesta cuprinde urmatoarele declaratii de  constante:
+	URL_SITE - link-ul aplicatiei scris în browser;
+	PATH_SITE - calea de directoare pâna la aplicatie;
+	PATH_FILE - definitie locatie pentru fisiere uploadate din editor (cale relativa la root);
+	DB_HOST - unde se gaseste baza de date;
+	DB_NAME - numele bazei de date;
+	DB_USER - utilizatorul bazei de date;
+	DB_PASSWORD - parola utilizatorul.
